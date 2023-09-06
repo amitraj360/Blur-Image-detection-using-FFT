@@ -1,7 +1,5 @@
 # Blur-Image-detection-using-FFT
 
-Sure! Here's a detailed description of the project "Image Blur Detection and Filtering using FFT" point-wise:
-
 1. **Project Overview:**
    The project aimed to develop an advanced image processing algorithm to automatically detect and filter out blurry images from a daily photo capture dataset. The dataset contained a large number of images captured on a regular basis, and a significant portion of these images were found to be unusable due to blur. The goal was to create a solution that could efficiently identify and remove blurry images, thereby improving the overall quality and usability of the dataset.
 
